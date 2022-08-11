@@ -59,7 +59,7 @@ This opens up a lot of possible findings about how the properties have been list
 
 ## Steps to run the Project:
 * BostonAirbnb.ipynb is the entry point to the project.
-* A convenient way to run would be throuh Jupyter Notebook app
+* A convenient way to run would be through Jupyter Notebook app
 * Ruuning each cell through BostonAirbnb.ipynb would first read through the listings.csv file and later yield results for the about listed scenarios under File Descriptions --> BostonAirbnb.ipynb
 
 
