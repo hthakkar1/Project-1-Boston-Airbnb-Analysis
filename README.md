@@ -1,4 +1,5 @@
 
+
 # Boston Airbnb Analysis
 
 A sneak peek into the Airbnb activity in Boston, MA, USA Kaggle Link
@@ -42,3 +43,10 @@ type of rooms offered,
 Boston Airbnb is a huge DataSet that comes with a lots of information about the listings, hosts, availability, pricing, reviews.
 This opens up a lot of possible findings about how the properties have been listed, type of properties, change in pricing per neighborhood and type of properties, amenities offered,
 type of rooms offered,  
+=======
+# Boston Airbnb Analysis
+A sneak peek into the Airbnb activity in Boston, MA, USA [Kaggle Link](https://www.kaggle.com/datasets/airbnb/boston)
+
+
+
+>>>>>>> a86bafa8b6ee9ae531f89eb9d973498eea3cab05
