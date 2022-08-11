@@ -64,5 +64,6 @@ This opens up a lot of possible findings about how the properties have been list
 
 
 ## Acknowledgements: 
-* 
+* https://stackoverflow.com/  : Scenario based syntax assistance and troubleshooting
+* https://www.delftstack.com/ : Matplotlib sceanrio based assistance to improvise the visual components
 
