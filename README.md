@@ -4,10 +4,10 @@
 
 A sneak peek into the Airbnb activity in Boston, MA, USA : <a href="https://www.kaggle.com/datasets/airbnb/boston" target="_blank">Kaggle Link</a>
 
-* #### Blog post URL: https://medium.com/@harshthakkar93/boston-airbnb-analysis-1c6423db5c92
+* ##### Blog post URL: https://medium.com/@harshthakkar93/boston-airbnb-analysis-1c6423db5c92
 
 
-Table of Contents:
+### Table of Contents:
 - Installations
 - Project Motivation
 - File Descriptions
