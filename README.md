@@ -2,7 +2,7 @@
 
 # Boston Airbnb Analysis
 
-A sneak peek into the Airbnb activity in Boston, MA, USA Kaggle Link
+A sneak peek into the Airbnb activity in Boston, MA, USA <a href="https://www.kaggle.com/datasets/airbnb/boston" target="_blank">Kaggle</a>
 
 
 Table of Contents:
